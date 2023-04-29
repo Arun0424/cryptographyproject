@@ -9,7 +9,12 @@ This project aims to develop a secure file sharing system using cryptography to 
     Before running the project, we must start the XAMPP and Tomcat servers. 
     If you fail to start the servers, the project may throw some errors.
     To run the project, open your preferred IDE (such as NetBeans, Eclipse, VS Code, or IntelliJ) and open the project. Make sure that both the XAMPP and Tomcat servers are started. Then, run the project from the IDE
-
+    
+# Required Software and jar files
+    * mysql-connector-j-8.0.31.jar
+    * java-mail-1.4.4.jar
+    * Xampp server
+    * Any IDE
 # ScreenShots
 
  # indexpage
