@@ -35,10 +35,16 @@ This project aims to develop a secure file sharing system using cryptography to 
 ![Screenshot (16)](https://user-images.githubusercontent.com/131866162/235292365-aaa421a3-0bc5-4abe-b59d-7cde4445b3ac.png)
 # Received File
 ![Screenshot (17)](https://user-images.githubusercontent.com/131866162/235292403-cd545fd8-051c-463b-ac10-e25448f248a9.png)
-#List of people
+# List of people
 ![Screenshot (18)](https://user-images.githubusercontent.com/131866162/235292452-31fb3433-e06d-4c98-8124-320500706d15.png)
 # Logout page
 ![Screenshot (20)](https://user-images.githubusercontent.com/131866162/235292526-0233334d-d586-4b6a-8631-c2465723e40a.png)
+ 
+ # Database
+ - Table structure
+ ![Screenshot (21)](https://user-images.githubusercontent.com/131866162/235295289-bc65ce19-d855-476b-935d-88333830a58f.png)
+
+ 
 
 
 
