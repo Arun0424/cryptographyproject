@@ -12,6 +12,7 @@ This project aims to develop a secure file sharing system using cryptography to 
     
 # Required Software and jar files
     - Any IDE(ie. NetBeans,Eclipse, VS Code, or IntelliJ)
+    - apache-tomcat-10.0.27     
     - Xampp server    
     - mysql-connector-j-8.0.31.jar
     - java-mail-1.4.4.jar
