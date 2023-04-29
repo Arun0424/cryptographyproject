@@ -2,9 +2,9 @@
 In today's digital age, the ability to securely share files is essential. 
 This project aims to develop a secure file sharing system using cryptography to protect the confidentiality and integrity of the files being shared. 
 # ScreenShot
-indexpage
+ # indexpage
 ![indexpage (2)](https://user-images.githubusercontent.com/131866162/235290687-82443933-adef-42a4-8ca0-3a48f3598bcb.png)
-login page
+# login page
 ![loginpage](https://user-images.githubusercontent.com/131866162/235291240-49d45dbc-5667-4256-8998-bd84fa99660b.png)
 SingIn page
 ![Screenshot (19)](https://user-images.githubusercontent.com/131866162/235292498-c41440df-0003-458d-904b-57c1392adce3.png)
