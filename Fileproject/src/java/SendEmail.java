@@ -32,8 +32,8 @@ public class SendEmail extends HttpServlet {
         subject = request.getParameter("subject");
         msg = request.getParameter("message");
 
-        final String username = "kumarsarun4323@gmail.com";//your email id
-        final String password = "elrddpsuqervolgc";// your password
+        final String username = " ";//your email id
+        final String password = " ";// your password
         Properties props = new Properties();
         props.put("mail.smtp.auth", true);
         props.put("mail.smtp.starttls.enable", true);
