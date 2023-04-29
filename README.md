@@ -1,6 +1,15 @@
 # Secure File Shareing using Cryptography
 In today's digital age, the ability to securely share files is essential. 
 This project aims to develop a secure file sharing system using cryptography to protect the confidentiality and integrity of the files being shared. 
+
+
+# Getting Strated
+  To get started with the application,follow steps
+  
+    Before running the project, we must start the XAMPP and Tomcat servers. 
+    If you fail to start the servers, the project may throw some errors.
+    To run the project, open your preferred IDE (such as NetBeans, Eclipse, VS Code, or IntelliJ) and open the project. Make sure that both the XAMPP and Tomcat servers are started. Then, run the project from the IDE
+
 # ScreenShots
 
  # indexpage
@@ -25,12 +34,6 @@ This project aims to develop a secure file sharing system using cryptography to 
 # Logout page
 ![Screenshot (20)](https://user-images.githubusercontent.com/131866162/235292526-0233334d-d586-4b6a-8631-c2465723e40a.png)
 
-# Getting Strated
-  To get started with the application,follow steps
-  
-    Before running the project, we must start the XAMPP and Tomcat servers. 
-    If you fail to start the servers, the project may throw some errors.
-    To run the project, open your preferred IDE (such as NetBeans, Eclipse, VS Code, or IntelliJ) and open the project. Make sure that both the XAMPP and Tomcat servers are started. Then, run the project from the IDE
 
 
 
