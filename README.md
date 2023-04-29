@@ -2,6 +2,7 @@
 In today's digital age, the ability to securely share files is essential. 
 This project aims to develop a secure file sharing system using cryptography to protect the confidentiality and integrity of the files being shared. 
 # ScreenShots
+
  # indexpage
 ![indexpage (2)](https://user-images.githubusercontent.com/131866162/235290687-82443933-adef-42a4-8ca0-3a48f3598bcb.png)
 # login page
@@ -23,6 +24,12 @@ This project aims to develop a secure file sharing system using cryptography to 
 ![Screenshot (18)](https://user-images.githubusercontent.com/131866162/235292452-31fb3433-e06d-4c98-8124-320500706d15.png)
 # Logout page
 ![Screenshot (20)](https://user-images.githubusercontent.com/131866162/235292526-0233334d-d586-4b6a-8631-c2465723e40a.png)
+
+# Getting Strated
+  To get started with the application,follow steps
+  
+    Before running the project, we must start the XAMPP and Tomcat servers. 
+    If you fail to start the servers, the project may throw some errors.
 
 
 
